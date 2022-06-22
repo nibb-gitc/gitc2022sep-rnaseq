@@ -1,2 +1,4 @@
 # gitc2022sep-rnaseq
-GITC 2022 RNA-seq入門
+
+2022/8/31(水) - 2022/9/1(木)
+GITC RNA-seq入門
